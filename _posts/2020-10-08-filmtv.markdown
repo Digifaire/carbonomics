@@ -1,0 +1,12 @@
+---
+title: Film & TV
+subtitle: Screenwriting
+layout: default
+modal-id: 1
+img: codify.png
+thumbnail: codify-thumbnail.png
+alt: image-alt
+category: Screenwriting
+description: Short- and long-form videos are must-have skillsets, for the modern business world. Gain mastery in stages, to win lucrative film and tv screenwriting gigs.
+
+---
