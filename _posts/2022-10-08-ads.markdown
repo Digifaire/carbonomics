@@ -7,6 +7,6 @@ img: isc.png
 thumbnail: isc-thumbnail.png
 alt: image-alt
 category: Advertising
-description: For your mission and vision, craft powerful video ads for customers to landing on product pages.     
+description: For your firm's mission and vision, craft powerful video ads for customers to landing on product pages.     
 
 ---
