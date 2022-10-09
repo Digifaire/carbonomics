@@ -1,6 +1,6 @@
 ---
-title: Ad Videos
-subtitle: Deep Ads 
+title: Ads & Sales
+subtitle: Deep Videos
 layout: default
 modal-id: 3
 img: isc.png
