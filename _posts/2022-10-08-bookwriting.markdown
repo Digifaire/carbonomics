@@ -1,6 +1,6 @@
 ---
-title: Books 
-subtitle: Fiction & Non-Fiction 
+title: Certification
+subtitle: 
 layout: default
 modal-id: 2
 img: smac.png
