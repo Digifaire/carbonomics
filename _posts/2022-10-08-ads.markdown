@@ -1,6 +1,6 @@
 ---
-title: Ads & Sales
-subtitle: Deep Videos
+title: AI
+subtitle: Deep Tech
 layout: default
 modal-id: 3
 img: isc.png
