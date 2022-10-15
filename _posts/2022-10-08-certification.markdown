@@ -1,6 +1,6 @@
 ---
 title: Certification & Licensing
-subtitle: Licensing 
+subtitle: License
 layout: default
 modal-id: 2
 img: smac.png
