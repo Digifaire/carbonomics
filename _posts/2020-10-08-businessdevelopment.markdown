@@ -1,6 +1,6 @@
 ---
 title: Business Development
-subtitle: Innovation
+subtitle: Rapid Innovation
 layout: default
 modal-id: 1
 img: codify.png
