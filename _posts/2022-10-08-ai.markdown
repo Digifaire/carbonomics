@@ -1,0 +1,12 @@
+---
+title: ML & AI
+subtitle: Deep Learning
+layout: default
+modal-id: 3
+img: isc.png
+thumbnail: isc-thumbnail.png
+alt: image-alt
+category: Advertising
+description: With high-quality data, machine learning and AI automate repetitive and energy-intensive tasks or sophisticated decision-making with intuitive algorithms.    
+
+---
