@@ -1,12 +1,12 @@
 ---
-title: Business Development
-subtitle: Rapid Innovation
+title: Carbon Finance 
+subtitle:  Credits & Trading
 layout: default
 modal-id: 1
 img: codify.png
 thumbnail: codify-thumbnail.png
 alt: image-alt
-category: Innovation
-description: Systems engineering thrives on a short, quick feedback loop, to incorporate valuable stakeholder experience, whilst pioneering next-gen breakthroughs. We believe in rapid development of engineering systems, as part of our business development worldview, to mitigate inflationary risks. 
+category: Financial Services
+description: Carbon trading is a balancing financial services paradigm. Achieving Net Zero Carbon involves pioneering next-gen breakthroughs, whilst also helping others who are slow to achieve the transformation. 
 
 ---
