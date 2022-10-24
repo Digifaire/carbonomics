@@ -7,6 +7,6 @@ img: codify.png
 thumbnail: codify-thumbnail.png
 alt: image-alt
 category: Financial Services
-description: Carbon trading is a balancing financial services paradigm. Achieving Net Zero Carbon involves pioneering next-gen breakthroughs, whilst also helping others who are slow to achieve the transformation. 
+description: Carbon trading is a balancing financial services paradigm. Achieving Net Zero Carbon involves pioneering next-gen breakthroughs, whilst also helping others who need more resources for the transformation. 
 
 ---
