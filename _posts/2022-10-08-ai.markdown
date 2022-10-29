@@ -7,6 +7,6 @@ img: ai.png
 thumbnail: ai-thumbnail.png
 alt: image-alt
 category: Data Science
-description: Data is the new gold! With high-quality data, machine learning and AI automate repetitive and energy-intensive tasks or sophisticated decision-making with intuitive algorithms. We create deep learning models that not only solve organizational decision-making and/or labor-intensive processes, but are also scaleable across industry stakeholder value chains.  
+description: Data is the new gold! With high-quality data, machine learning and AI automate repetitive and energy-intensive tasks or sophisticated decision-making with intuitive algorithms. We create deep learning models that not only solve organizational decision-making and/or automate labor-intensive processes, but are also scaleable across industry stakeholder value chains.  
 
 ---
